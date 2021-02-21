@@ -11,6 +11,10 @@ $ npm install deezer-lib
 
  - (Comming soon)
 
+ ## Author
+
+ - [RichardPompeo](https://github.com/RichardPompeo)
+
  ## License
 
  [MIT License](https://github.com/RichardPompeo/deezer-lib/blob/master/LICENSE)
