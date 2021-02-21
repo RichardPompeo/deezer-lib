@@ -1,0 +1,21 @@
+{
+  "name": "deezer-lib",
+  "version": "1.0.0",
+  "description": "Simple Deezer lib",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [
+    "deezer",
+    "deezer-api",
+    "deezer-lib",
+    "simple-deezer-lib",
+    "simple-deezer-api"
+  ],
+  "author": "patek",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
