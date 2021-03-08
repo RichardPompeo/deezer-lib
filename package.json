@@ -1,6 +1,6 @@
 {
   "name": "deezer-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple Deezer lib to interact with the Deezer API",
   "main": "lib/index.js",
   "scripts": {
